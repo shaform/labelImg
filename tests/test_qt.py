@@ -1,7 +1,6 @@
-
 from unittest import TestCase
 
-from labelImg import get_main_app
+from labelImg.labelImg import get_main_app
 
 
 class TestMainWindow(TestCase):
